@@ -10,5 +10,8 @@
     "\u001b[D\u001b[D\u001b[C\u001b[C"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
