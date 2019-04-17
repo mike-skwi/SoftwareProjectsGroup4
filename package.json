@@ -1,0 +1,14 @@
+{
+  "name": "group4project",
+  "version": "1.0.0",
+  "description": "Group 4 Team Evaluation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[D\u001b[D\u001b[C\u001b[C"
+  ],
+  "author": "",
+  "license": "ISC"
+}
